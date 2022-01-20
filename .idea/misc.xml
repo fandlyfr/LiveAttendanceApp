@@ -5,10 +5,15 @@
       <map>
         <entry key="..\:/Users/fandl/AndroidStudioProjects/LiveAttendanceApp/app/src/main/res/drawable/bg_btn_primary.xml" value="0.23489583333333333" />
         <entry key="..\:/Users/fandl/AndroidStudioProjects/LiveAttendanceApp/app/src/main/res/drawable/bg_edit_text.xml" value="0.23489583333333333" />
+        <entry key="..\:/Users/fandl/AndroidStudioProjects/LiveAttendanceApp/app/src/main/res/drawable/bg_handler_bottom_sheet.xml" value="0.22760416666666666" />
         <entry key="..\:/Users/fandl/AndroidStudioProjects/LiveAttendanceApp/app/src/main/res/layout/activity_forgot_password.xml" value="0.21875" />
         <entry key="..\:/Users/fandl/AndroidStudioProjects/LiveAttendanceApp/app/src/main/res/layout/activity_login.xml" value="0.25" />
         <entry key="..\:/Users/fandl/AndroidStudioProjects/LiveAttendanceApp/app/src/main/res/layout/activity_main.xml" value="0.21875" />
         <entry key="..\:/Users/fandl/AndroidStudioProjects/LiveAttendanceApp/app/src/main/res/layout/activity_splash.xml" value="0.21875" />
+        <entry key="..\:/Users/fandl/AndroidStudioProjects/LiveAttendanceApp/app/src/main/res/layout/bottom_sheet_attendance.xml" value="0.21145833333333333" />
+        <entry key="..\:/Users/fandl/AndroidStudioProjects/LiveAttendanceApp/app/src/main/res/layout/fragment_attendance.xml" value="0.21510416666666668" />
+        <entry key="..\:/Users/fandl/AndroidStudioProjects/LiveAttendanceApp/app/src/main/res/layout/fragment_history.xml" value="0.21510416666666668" />
+        <entry key="..\:/Users/fandl/AndroidStudioProjects/LiveAttendanceApp/app/src/main/res/layout/fragment_profile.xml" value="0.21510416666666668" />
         <entry key="..\:/Users/fandl/AndroidStudioProjects/LiveAttendanceApp/app/src/main/res/menu/main_menu.xml" value="0.21510416666666668" />
       </map>
     </option>
