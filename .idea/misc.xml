@@ -5,7 +5,9 @@
       <map>
         <entry key="..\:/Users/fandl/AndroidStudioProjects/LiveAttendanceApp/app/src/main/res/drawable/bg_btn_primary.xml" value="0.23489583333333333" />
         <entry key="..\:/Users/fandl/AndroidStudioProjects/LiveAttendanceApp/app/src/main/res/drawable/bg_edit_text.xml" value="0.23489583333333333" />
-        <entry key="..\:/Users/fandl/AndroidStudioProjects/LiveAttendanceApp/app/src/main/res/layout/activity_login.xml" value="0.4375" />
+        <entry key="..\:/Users/fandl/AndroidStudioProjects/LiveAttendanceApp/app/src/main/res/layout/activity_forgot_password.xml" value="0.21875" />
+        <entry key="..\:/Users/fandl/AndroidStudioProjects/LiveAttendanceApp/app/src/main/res/layout/activity_login.xml" value="0.25" />
+        <entry key="..\:/Users/fandl/AndroidStudioProjects/LiveAttendanceApp/app/src/main/res/layout/activity_main.xml" value="0.21875" />
         <entry key="..\:/Users/fandl/AndroidStudioProjects/LiveAttendanceApp/app/src/main/res/layout/activity_splash.xml" value="0.21875" />
       </map>
     </option>
